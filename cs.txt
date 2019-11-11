@@ -1,0 +1,224 @@
+
+              BTech CSE Curriculum 2019
+********************************************************
+
+
+Semester 1
+++++++++++++++++++++++++++
+
+        3--1--0--4  Mathematics 1
+        2--1--0--3  Physics 1
+CS101   3--0--2--4  Introduction to Computing
+        3--0--0--3  HSS 1
+        1--1--0--2  Chemistry 1
+        1--1--0--2  Chemistry 2
+        0--0--3--2  Chemistry Lab
+        0--0--3--2  Introduction to Manufacturing
+CS100   1--0--0--1  Introduction to Profession
+Total           23
+Departmental     1
+
+Semester 2
+++++++++++++++++++++++++++
+
+CS102  1--0--2--2  Software Tools
+       3--1--0--4  Mathematics 2
+       2--1--0--3  Physics 2
+       0--0--3--2  Physics Lab
+       3--0--0--3  Introduction to Biology
+       1--0--3--2  Introduction to Computer-Aided Graphics
+       3--0--3--4  Introduction to Electrical Engineering
+Total         20
+Departmental   2
+
+Semester 3
+++++++++++++++++++++++++++
+
+CS210  3--0--3--4  Digital Systems Design
+CS220  3--0--2--4  Data Structures and Algorithms
+CS221  3--0--0--3  Discrete Structures
+CS230  3--0--0--3  Probability and Statistics for CS
+       3--0--0--3  Open Elective
+Total          17
+Departmental   14
+
+Semester 4
+++++++++++++++++++++++++++
+
+CS211  3--0--3--4  Computer Architecture
+CS212  3--0--3--4  Computer Networks
+CS222  3--0--3--4  Algorithm Design
+       3--0--0--3  Open Elective
+Total          15
+Departmental   12
+
+Semester 5
+++++++++++++++++++++++++++
+CS300  3--0--3--4  Programming Language Paradigms
+CS310  3--0--3--4  Operating Systems
+CS320  3--0--0--3  Logic and Applications
+CS330  3--0--3--4  Artificial Intelligence
+       3--0--0--3  Open Elective
+Total          18
+Departmental   15
+
+Semester 6
+++++++++++++++++++++++++++
+
+CS331  3--0--3--4  Data Science & Machine Learning
+CS321  3--0--0--3  Theory of Computation
+CS311  3--0--3--4  Compilers
+       3--0--0--3  Departmental Elective
+Total          14
+Departmental   11
+
+Semester 7
+++++++++++++++++++++++++++
+
+       3--0--0--3  Departmental Elective
+       3--0--0--3  Departmental Elective
+       3--0--0--3  Open Elective
+       3--0--0--3  Open Elective
+Total          12
+Departmental    6
+
+Semester 8
+++++++++++++++++++++++++++
+       3--0--0--3  Departmental Elective
+       3--0--0--3  Departmental Elective
+       3--0--0--3  Open Elective
+       3--0--0--3  Open Elective
+Total          12
+Departmental    6
+
++=================================+
+|     Total Credits         131   |
+|     Departmental Credits   67   |
++=================================+
+
+
+
+            Courses
+***********************************
+
+
+Course numbering
+++++++++++++++++
+
+A course with numbering CSXYZ is a course in the year X of category Y. The final number Z linearly orders courses with the same X and Y components.
+
+Course categories
++++++++++++++++++
+
++============================+
+|    Programming     0       |
+|    Systems         1       |
+|    Theory          2       |
+|    Applications    3       |
++============================+
+
+
+Course Descriptions
+++++++++++++++++++++++++++++++
+
+CS100  Introduction to Profession 1--0--0--1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Objective:
+
+Contents:
+The course provides a bird's-eye view of  Computer Science \ Engineering and its sub-disciplines.
+
+Suggested Textbooks:
+N.A.
+
+CS101   Introduction to Computing 3--0--2--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Problem solving step-by-step, Notion of algorithm --- Basics of programming, Types, Arrays/Lists, Array/List manipulations, Strings, Functions --- Basic algorithms, Searching, Binary search, Sorting algorithms, Recursion --- Object oriented programming.
+
+
+CS102 Software Tools 1--0--2--2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Basic GNU/Linux commands --- Shell tools and programming --- Web development (HTML, CSS, etc.) --- Other productivity tools.
+
+CS210 Digital Systems Design 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Digital Logic, Medium/Large/Very Large Scale Integration --- Basics of CMOS Logic and Gates, Basic Digital Blocks, Multiplexer, Decoder, Encoder, Arbiter, Bus --- Boolean Algebra, Minimizing Boolean expressions, Karnaugh Map, Quine-McCluskey etc.~---  Number Representation --- Combinational Circuit Analysis, Basics of Circuit Timing, Pipelining, Finite State Machines, Algorithmic State Machines, Registers, Counters, Memory --- Introduction to Verilog Hardware Description Language. Lab sessions on design, implementation and simulation of basic digital systems using Verilog and Zynq board.
+
+
+CS211 Computer Architecture 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Computer Organization --- Basic Building Blocks of a Processor, MIPS Processor Architecture, MIPS Instruction Set Architecture (ISA) --- Processor Pipeline, Branch Prediction, Instruction/Data/Task Parallelism, Data and Control Hazards ---  MIPS Assembly Language Programming --- Memory Hierarchy, Cache --- CISC vs. RISC. Lab sessions include MIPS Assembly Language Programming and Processor Design and Implementation using Verilog.
+
+
+
+CS212 Computer Networks 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Layering abstraction,  Network architecture, Packet switching, Performance evaluation of networks --- Application layer,  Web and HTTP, Socket programming, DNS, Email protocols, Peer-to-peer applications --- Transport layer, Protocols for reliable data transfer, UDP and TCP protocols, Congestion control and flow control --- Network layer, Router architecture, IPv4 and IPv6, Routing algorithms, Distance vector and link-state algorithms, Routing protocols on the Internet (RIP, OSPF, BGP) --- Link layer, Error detection and correction techniques, Multiple access protocols.
+
+
+CS220 Data Structures and Algorithms 3--0--2--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ C language basics, Programming with pointers --- Time and space complexity of algorithms --- Basic data structures, Lists, Stacks, Queues, Binary search trees, Heaps, Hashing, Trees, Tree traversals, Graphs, Self balancing trees --- Graph search, BFS, DFS, Minimum spanning tree algorithms, Shortest path algorithms.
+
+
+CS221 Discrete Structures 3--0--0--3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Proofs, Proof strategies --- Sets, Relations, Functions, Equivalence relations, Partial orders, Cardinality, Countability, Uncountability --- Combinatorics, Basic counting techniques, Pigeonhole principle, Principle of inclusion-exclusion, Recurrence relations, Generating functions --- Notion of groups, Burnside Lemma and P\'{o}lya’s counting theorem --- Basics of graph theory.
+
+CS222 Algorithm Design 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Asymptotic analysis of algorithms --- Algorithm Design Strategies, Greedy, Divide \ Conquer, Dynamic programming ---Network flow --- Linear programming, Reductions to LP --- P and NP,  Computational intractability --- Introduction to approximation and randomized algorithms.
+
+CS230 Probability and Statistics for CS 3--0--0--3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Motivating examples of importance of randomization in CS --- Discrete experiments, Probability space, Equally-likely outcomes and combinatorial problems, Non-equally likely outcomes --- Conditional probability, Urn models, Bayes formula, Independent events --- Random variables, Binomial and Poisson distributions, Expectation, Variance, Linearity of expectation --- Markov and Chebyshev inequalities, Chernoff bound, Simple applications --- Joint distributions, Joint densities, Correlation --- Statistics, Sampling, Central limit theorem, Hypothesis testing. Frequentist significance tests and confidence intervals.
+
+CS300 Programming Language Paradigms 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Programming paradigms, Procedural, Object oriented, Functional etc.~--- Aspects of programming languages, Type systems, Scope, Parameter passing, Abstract data types, Objects, Inheritance, Polymorphism, Templates --- Functional programming, Introduction to a functional programming language like Haskell, Names, Expressions and lists, Functions, Recursion, Higher order and Curried functions.
+
+
+CS310 Operating Systems 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Basic concept of control flow in a computer system --- Introduction to OS for Desktop Systems --- Processes, Inter-Process Communication, Scheduling Algorithms and Policies --- Physical and Virtual Memory Management, Mass Storage Systems and Disk Scheduling ---  Concurrency and Process Synchronization --- Introduction to Mobile OS, OS for TV and Real Time Operating Systems (RTOS). Lab sessions include exercises on process generation, creation, permissions etc.~and design and implementation of a basic OS.
+
+CS311 Compilers 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lexical analysis --- Syntax analysis,  LL and LR grammars --- Semantic analysis, Attributes and computation rules, Type safety --- Intermediate code generation, Syntax tree, Three-address code, Quadruple, Triple, SSA, One pass intermediate code generation method --- Code optimization, Basic block, Flow graphs, Local and global optimizations --- Introduction to data-flow analysis --- Run time environments, Activation records, Garbage collector algorithms --- Code generation.
+
+
+
+CS321 Theory of Computation 3--0--0--3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Notion of a formal language, Regular languages,  Finite state automata,  DFA, NFA, Regular expressions, Equivalence of all the notions, Myhill-Nerode theorem, Pumping lemma, Closure and decision properties of regular languages, Equivalence and minimization of DFA --- Notion of a grammar, Context Free Grammars and Languages, Derivation and parsing, PDAs, PDAs and CFGs capture same language class, Chomsky normal form CFGs, Pumping lemma, Closure and decision properties of CFLs --- Turing Machine, Historical motivation, Robustness of the TM, Universal Turing machine, Recursive and R.E.~languages, Separation of the two classes, Undecidable problems, Rice’s theorem.
+
+
+
+CS320 Logic and Applications 3--0--0--3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Propositional logic,  Syntax, Semantics, SAT algorithms, Applications like SAT Solvers, CSP etc.~--- Soundness and Completeness --- First order logic, Syntax, Semantics, Applications like Program verification, Planning, Unification etc.
+
+CS330 Artificial Intelligence 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Basics of problem-solving, Problem representation paradigms, State space --- Search techniques, Problem size, Heuristics, Uninformed search, Informed search methods --- Constraint satisfaction problems, Local search --- Knowledge acquisition, Learnability theory, Approaches to learning --- Supervised learning and classification problems, Linear classifiers, Perceptrons, Artificial neural networks, k-nearest neighbour classifiers --- Unsupervised learning and clustering, k-mean clustering, Agglomerative clustering --- Uncertainty treatment, Review of basic probability, Formal and empirical approaches, Introduction to Bayesian theory, Markov models, Hidden Mar\-kov models, Naive Bayes classifiers.
+
+
+CS331 Data Science & Machine Learning 3--0--3--4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Data science basics, How to wrangle, visualize, and analyze data, Using models to explore your data --- Supervised learning, Linear and logistic regression, Generative learning, Discriminant analysis, Maximum likelihood estimation (MLE), Aaximum a posteriori (MAP) estimation --- Support Vector Machines --- Machine learning in practice, Bias-variance tradeoff, Regularization and model selection --- Learning theory, Unsupervised learning, Mixture of Gaussians, EM algorithm ---Dimensionality reduction, Principal Component Analysis, Singular Value Decomposition --- Topics in Artificial Neural Networks and Deep Learning.
